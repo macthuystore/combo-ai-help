@@ -35,11 +35,7 @@ Nhiệm vụ của bạn là xuất ra cho tôi 01 kịch bản chi tiết bao g
 ---## 🔄 3. Nhật Ký Cập Nhật (Changelog)*   **[11/09/2026]:** Nâng cấp cẩm nang chi tiết: Bổ sung Prompt khung Mega cho ChatGPT, bảng thông số kỹ thuật cấu hình Leonardo và quy trình thiết kế font chữ chuẩn trên Canva.
 
 
----
 
-<FollowUp>
-Để tiếp tục nâng cấp sâu toàn bộ các bài viết khác theo phong cách thực chiến này, bạn muốn tôi thực hiện tiếp cho file nào:
-*   File bài viết cho ngành **Lập trình & Tech Miễn phí** (Bổ sung code mẫu cấu hình môi trường và các phím tắt chuyên sâu của Cursor)?
 *   Hay file bài viết cho ngành **Thiết kế & Video Chi phí thấp** (Bổ sung bộ từ khóa camera di chuyển chuyên sâu cho Luma AI/Kling AI)?
 </FollowUp>
 
