@@ -7,6 +7,7 @@ Chào mừng bạn đến với **Combo AI Hub**! Đây là kho lưu trữ chia 
 ## ⚡ Bản Tin Cập Nhật AI Hằng Ngày (Cập nhật: 11/09/2026)
 *Nơi tổng hợp nhanh các công cụ mới ra mắt hoặc các tính năng AI vừa cập nhật lớn.*
 
+* **[11/09/2026]** **Midjourney v7** chính thức phát hành bản thử nghiệm, hỗ trợ tạo chữ tiếng Việt chuẩn 100% không bị lỗi font. Phù hợp cho: [Thiết kế & Video]. Chi phí: Có phí.
 * **[11/09/2026]** **Claude 4.5 Sonnet** chính thức cập nhật tính năng xử lý video thời gian thực.
 * **[10/09/2026]** Ra mắt công cụ **NotebookLM Plus** hỗ trợ tóm tắt toàn bộ 100 bài nghiên cứu cùng lúc và xuất thành file podcast đối thoại tự động.
 
