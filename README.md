@@ -5,7 +5,7 @@ Chào mừng bạn đến với **Combo AI Hub**! Đây là kho lưu trữ chia 
 ---
 <div align="center">
   <a href="#-combo-ai-hub---bản-đồ-tối-ưu-hóa-công-việc-bằng-ai">
-    <img src="https://githubusercontent.com" alt="Bấm Star Ủng Hộ Dự Án" width="220px">
+    <img src="https://giphy.com" alt="Bấm Star Ủng Hộ Dự Án" width="120px">
   </a>
   <br>
   <sub><i>Nếu bạn thấy kho tài liệu này hữu ích, hãy tặng tôi 1 ngôi sao để dự án có thêm động lực cập nhật nhé!</i></sub>
